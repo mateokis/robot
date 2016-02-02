@@ -1,1 +1,2 @@
-print("Ja sam Tomislav")
+for i in range(10):
+    print("Ja sam robot Tomica")
